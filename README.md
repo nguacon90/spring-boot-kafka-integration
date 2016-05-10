@@ -14,6 +14,6 @@ This project is simple application which using spring boot integration kafka. Ka
 ## How to install
 1. Install kafka and zookeeper
 2. Start server kafka and zookeeper: 
-	* `references link: http://kafka.apache.org/07/quickstart.html` 
+	* `reference: http://kafka.apache.org/07/quickstart.html` 
 3. Run application:
 	* `mvn spring-boot:run`
